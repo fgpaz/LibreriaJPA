@@ -18,3 +18,9 @@
   13. Agregar las siguientes validaciones a todas las funcionalidades de la aplicación:
       - Validar campos obligatorios.
       - No ingresar datos duplicados.
+
+### Instrucciones para ejecución:
+ 1. Descargar el proyecto.
+ 2. En IDE de BD de preferencia escribir y ejecutar query:
+    > CREATE DATABASE libreria;
+ 3. Ejecutar Main del proyecto en IDE (preferentemente Netbeans).
